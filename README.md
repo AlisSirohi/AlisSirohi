@@ -1,4 +1,4 @@
-<p align="center" ><a href="https://www.linkedin.com/in/adityakuma0702/"><img width="100%" alt="Hello, I'm Aditya. I am a learning developer!" src="./Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" /></a></p>
+<p align="center" ><a href="https://www.linkedin.com/in/alis-sirohi-80632a292/"><img width="100%" alt="Hello, I'm Alis. I am a learning developer!" src="./Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" /></a></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Alis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alis-sirohi-80632a292)](https://www.linkedin.com/in/alis-sirohi-80632a292)
 [![GitHub Thaiane](https://img.shields.io/github/followers/aditya?label=follow&style=social)](https://github.com/aditya07024)
