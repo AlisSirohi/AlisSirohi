@@ -1,7 +1,7 @@
 <p align="center" ><a href="https://www.linkedin.com/in/alis-sirohi-80632a292/"><img width="100%" alt="Hello, I'm Alis. I am a learning developer!" src="./Black & White Modern Minimalist Data Analyst LinkedIn Banner.png" /></a></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Alis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alis-sirohi-80632a292)](https://www.linkedin.com/in/alis-sirohi-80632a292)
-[![GitHub Thaiane](https://img.shields.io/github/followers/aditya?label=follow&style=social)](https://github.com/aditya07024)
+[![GitHub Thaiane](https://img.shields.io/github/followers/Alis?label=follow&style=social)](https://github.com/AlisSirohi)
 
 
 
@@ -10,11 +10,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br>
 
 
-![](https://raw.githubusercontent.com/Aditya07024/aditya/master/profile-summary-card-output/2077/0-profile-details.svg)
-![](https://raw.githubusercontent.com/Aditya07024/aditya/master/profile-summary-card-output/2077/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Aditya07024/aditya/master/profile-summary-card-output/2077/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/Aditya07024/aditya/master/profile-summary-card-output/2077/3-stats.svg)
-[![](https://raw.githubusercontent.com/Aditya07024/aditya/master/profile-summary-card-output/2077/4-productive-time.svg)
+![](https://raw.githubusercontent.com/AlisSirohi/Alis/master/profile-summary-card-output/2077/0-profile-details.svg)
+![](https://raw.githubusercontent.com/AlisSirohi/Alis/master/profile-summary-card-output/2077/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/AlisSirohi/Alis/master/profile-summary-card-output/2077/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/AlisSirohi/Alis/master/profile-summary-card-output/2077/3-stats.svg)
+[![](https://raw.githubusercontent.com/AlisSirohi/Alis/master/profile-summary-card-output/2077/4-productive-time.svg)
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
